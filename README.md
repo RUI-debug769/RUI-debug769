@@ -11,6 +11,7 @@
 | [cria-research-lab](https://github.com/RUI-debug769/cria-research-lab) | CRIA：AI 增强的科研实验室工作架构 | 科研方法论 · 五步法 |
 | [ai-brain-tools](https://github.com/RUI-debug769/backup-ai-brain-tools-v2) | 五个 AI × 脑科学 × 数学的学术研究工具 | 数学工具 |
 | [frontier-report](https://github.com/RUI-debug769/frontier-report) | AI 前沿日报/周报自动生成与投递，纯标准库零依赖 | 信息输入 |
+| [careeratlas-app](https://github.com/RUI-debug769/careeratlas-app) | 结构化生涯测评与职业规划向导（Next.js + 大模型） | 心理测量学 · 循证咨询 |
 
 长期追问：意识与感质。
 
